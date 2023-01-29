@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kamlesh-Ohol
 - 👀 I’m interested in ...Coding
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently in Diploma Computer Engineering 
+- 📫 How to reach me kamleshohol2305@outlook.com
+- 
 
 <!---
 Kamlesh-Ohol/Kamlesh-Ohol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
