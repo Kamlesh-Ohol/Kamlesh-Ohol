@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kamlesh-Ohol
-- 👀 I’m interested in ...Coding
+- 👀 I’m interested in ...Coding AI ML Data Science 
 - 🌱 I’m currently in Electronic and       Telecommunication Engineering 
 - 📫 How to reach me kamleshohol2305@outlook.com
 - 
