@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kamlesh-Ohol
 - 👀 I’m interested in ...Coding
-- 🌱 I’m currently in Diploma Computer Engineering 
+- 🌱 I’m currently in Electronic and       Telecommunication Engineering 
 - 📫 How to reach me kamleshohol2305@outlook.com
 - 
 
